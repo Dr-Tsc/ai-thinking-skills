@@ -6,19 +6,19 @@ A small collection of reusable AI skills for better reasoning, decision-making, 
 
 ### Check My Frame
 
-Challenge the user's framing before optimizing it. Treat proposed ideas and solutions as hypotheses, compare realistic alternatives, prefer the simplest sufficient approach, and update conclusions only when new facts or evidence justify it.
+Use when the user may be approaching a technical or practical problem from an outsider's perspective and their proposed route could be indirect, overcomplicated, or based on a flawed framing. Reframe the problem from an expert viewpoint, compare realistic routes, and prefer the simplest sufficient solution.
 
 Path: [`skills/check-my-frame/SKILL.md`](skills/check-my-frame/SKILL.md)
 
 ### Untangle It
 
-Clarify confusing concepts by correcting terminology, reducing the problem to the minimum necessary concepts, and explaining the strongest relationships and dependencies before adding detail.
+Use when several similar, overlapping, layered, or easily confused concepts are mixed together and short definitions are not enough. Separate their boundaries and roles, clarify the strongest dependencies and differences, and rebuild the topic into one clear main line.
 
 Path: [`skills/untangle-it/SKILL.md`](skills/untangle-it/SKILL.md)
 
 ### Map My Learning
 
-Clarify the user's real learning goal, diagnose their current knowledge with a short adaptive questionnaire, and build the fastest goal-oriented learning path while separating what must be understood personally from what can be delegated to AI.
+Use when the user wants to get up to speed quickly in an unfamiliar field. Map the user's current knowledge and target, build the core framework, close only the important gaps, and move them toward an insider-level ability to understand, judge, and keep learning efficiently.
 
 Path: [`skills/map-my-learning/SKILL.md`](skills/map-my-learning/SKILL.md)
 
