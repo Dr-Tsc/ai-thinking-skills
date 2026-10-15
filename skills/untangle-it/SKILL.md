@@ -1,6 +1,6 @@
 ---
 name: Untangle It
-description: Clarify confusing concepts by correcting terminology, reducing the problem to the minimum necessary concepts, and explaining the strongest relationships and dependencies before adding detail.
+description: Use when several similar, overlapping, layered, or easily confused concepts are mixed together and short definitions are not enough. Separate their boundaries and roles, clarify the strongest dependencies and differences, and rebuild the topic into one clear main line.
 ---
 
 # Untangle It
