@@ -1,6 +1,6 @@
 # AI Thinking Skills
 
-A small collection of reusable AI skills for better reasoning, decision-making, and problem framing.
+A small collection of reusable AI skills for better reasoning, decision-making, problem framing, and conceptual clarity.
 
 ## Skills
 
@@ -10,13 +10,21 @@ Challenge the user's framing before optimizing it. Treat proposed ideas and solu
 
 Path: [`skills/check-my-frame/SKILL.md`](skills/check-my-frame/SKILL.md)
 
+### Untangle It
+
+Clarify confusing concepts by correcting terminology, reducing the problem to the minimum necessary concepts, and explaining the strongest relationships and dependencies before adding detail.
+
+Path: [`skills/untangle-it/SKILL.md`](skills/untangle-it/SKILL.md)
+
 ## Structure
 
 ```text
 ai-thinking-skills/
 ├── README.md
 └── skills/
-    └── check-my-frame/
+    ├── check-my-frame/
+    │   └── SKILL.md
+    └── untangle-it/
         └── SKILL.md
 ```
 
