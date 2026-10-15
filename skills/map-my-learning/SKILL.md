@@ -1,6 +1,6 @@
 ---
 name: Map My Learning
-description: Clarify the user's real learning goal, diagnose their current knowledge with a short adaptive questionnaire, and build the fastest goal-oriented learning path while deciding what must be understood personally and what can be delegated to AI.
+description: Use when the user wants to get up to speed quickly in an unfamiliar field. Map the user's current knowledge and target, build the core framework, close only the important gaps, and move them toward an insider-level ability to understand, judge, and keep learning efficiently.
 ---
 
 # Map My Learning
