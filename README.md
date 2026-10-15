@@ -1,6 +1,6 @@
 # AI Thinking Skills
 
-A small collection of reusable AI skills for better reasoning, decision-making, problem framing, and conceptual clarity.
+A small collection of reusable AI skills for better reasoning, decision-making, problem framing, conceptual clarity, and goal-oriented learning.
 
 ## Skills
 
@@ -16,6 +16,12 @@ Clarify confusing concepts by correcting terminology, reducing the problem to th
 
 Path: [`skills/untangle-it/SKILL.md`](skills/untangle-it/SKILL.md)
 
+### Map My Learning
+
+Clarify the user's real learning goal, diagnose their current knowledge with a short adaptive questionnaire, and build the fastest goal-oriented learning path while separating what must be understood personally from what can be delegated to AI.
+
+Path: [`skills/map-my-learning/SKILL.md`](skills/map-my-learning/SKILL.md)
+
 ## Structure
 
 ```text
@@ -24,7 +30,9 @@ ai-thinking-skills/
 └── skills/
     ├── check-my-frame/
     │   └── SKILL.md
-    └── untangle-it/
+    ├── untangle-it/
+    │   └── SKILL.md
+    └── map-my-learning/
         └── SKILL.md
 ```
 
