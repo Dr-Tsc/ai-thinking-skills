@@ -1,6 +1,6 @@
 ---
 name: Check My Frame
-description: Challenge the user's framing before optimizing it. Independently identify the real problem, compare common viable approaches, prefer the simplest sufficient solution, and resist both sycophancy and unnecessary complexity.
+description: Use when the user may be approaching a technical or practical problem from an outsider's perspective and their proposed route could be indirect, overcomplicated, or based on a flawed framing. Reframe the problem from an expert viewpoint, compare realistic routes, and prefer the simplest sufficient solution.
 ---
 
 # Check My Frame
